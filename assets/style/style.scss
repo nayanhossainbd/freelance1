@@ -64,7 +64,7 @@ button:focus {
     min-height: 50px;
     position: relative;
     z-index: 1000;
-    background-color: $primaryColor;
+    background-color: #d6d6d6;
    
     .navbar-toggler {
 
@@ -208,7 +208,7 @@ button:focus {
             text-align: center;
             letter-spacing: .005em;
             text-transform: uppercase;
-            color:$black;
+            color:$welcomTitle;
             font-family: $headingfontFamily;
             font-size: 69px;
             font-weight: 700;
